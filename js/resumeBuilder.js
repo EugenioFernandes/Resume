@@ -112,16 +112,17 @@ var projects = {
 			"url": "https://github.com/Tony0000/SchedulerSim"
 		},
 		{
-			"title": "CSV File Reader",
-			"datesWorked": "October 2014",
-			"description": "An CSV file parser to count null fields and watch list variables.",
-			"images": ["images/filereader.jpg"],
-			"url": "https://github.com/Tony0000/FileReader"
+			"title": "BibGen",
+			"datesWorked": "October 2017",
+			"description": "BibGen is a acronym of Gerenciador de Bilioteca (Library Management, in english) it is made using Java, Swing and Hibernate.",
+			"images": ["images/bibgen.png"],
+			"url": "https://github.com/Tony0000/BibGen"
 		},
 		{
 			"title": "Ant Colony",
 			"datesWorked": "September 2016 - November 2016",
 			"description": "Created as project for Artificial Intelligence class.",
+			"images": ["images/antcolony.jpg"],
 			"url": "https://github.com/Tony0000/AntColony"
 		},
 		{
